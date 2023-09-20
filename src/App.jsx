@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-import Header from './components/header'
+import Header from './components/Header'
 import Formulario from './components/Formulario'
 import Listadopacientes from './components/Listadopacientes'
 
